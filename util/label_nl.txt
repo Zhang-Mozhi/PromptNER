@@ -1,0 +1,66 @@
+broadcast program
+film
+music
+other art
+painting
+written art
+actor
+artist author
+athlete
+director
+other person
+politician
+scholar
+soldier
+airplane
+car
+food
+game
+other product
+ship
+software
+train
+weapon
+astronomy thing
+award
+biology thing
+chemical thing
+currency
+disease
+educational degree
+god
+language
+law
+living thing
+medical
+airport
+hospital
+hotel
+library
+other building
+restaurant
+sports facility
+theater
+attack battlen war military conflict
+disaster
+election
+other event
+protest
+sports event
+bodies of water
+geographical social political entity
+island
+mountain
+other location
+park
+road railway highway transit
+company
+education
+government agency
+media newspaper
+other organization
+political party
+religion
+show organization
+sports league
+sports team
